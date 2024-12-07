@@ -1,0 +1,7 @@
+# This project requires Python 3.10. 
+# Use the following command to create the virtual environment in PythonAnywhere console:
+# mkvirtualenv --python=/usr/bin/python3.10 .venv_iris
+
+Flask==3.1.0
+pandas==2.2.3
+scikit-learn==1.5.2
